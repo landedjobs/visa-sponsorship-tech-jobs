@@ -1,5 +1,160 @@
 [
   {
+    "dedupeKey": "job:b5c2b2bf-a4d1-4b7c-ab1b-3f10e701807a",
+    "companyId": "company_d318762d9a7b1ecbb23619b165e3fabe",
+    "company": "Anthropic",
+    "companyDomain": "anthropic.com",
+    "role": "Engineering Manager, Billing Platform",
+    "applyUrl": "https://go.landed.jobs/fls8vr8",
+    "location": "San Francisco, CA +2",
+    "locations": [
+      "San Francisco, CA",
+      "New York City, NY",
+      "Seattle, WA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "SQL",
+      "LLM"
+    ],
+    "posted": "2026-11-14T20:19:44.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$965B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:79726fa4-df2f-42de-82bc-c93d1b5c69f6",
+    "companyId": "company_d318762d9a7b1ecbb23619b165e3fabe",
+    "company": "Anthropic",
+    "companyDomain": "anthropic.com",
+    "role": "CMC & Manufacturing Lead, Life Sciences",
+    "applyUrl": "https://go.landed.jobs/cihmpoi",
+    "location": "Friendly, MD",
+    "locations": [
+      "Friendly, MD"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "research_science",
+    "level": "senior",
+    "skills": [
+      "LLM"
+    ],
+    "posted": "2026-11-13T21:43:08.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$965B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:915fc136-110c-4024-a04e-edd6eef38ee1",
+    "companyId": "company_d318762d9a7b1ecbb23619b165e3fabe",
+    "company": "Anthropic",
+    "companyDomain": "anthropic.com",
+    "role": "Staff+ Software Engineer, Consumer",
+    "applyUrl": "https://go.landed.jobs/pdft019",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "staff",
+    "skills": [
+      "js"
+    ],
+    "posted": "2026-11-13T18:51:11.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$965B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:aa7a8ae5-0fbe-4305-8700-990f812aa41c",
+    "companyId": "company_d318762d9a7b1ecbb23619b165e3fabe",
+    "company": "Anthropic",
+    "companyDomain": "anthropic.com",
+    "role": "Staff Software Engineer, Internal Products",
+    "applyUrl": "https://go.landed.jobs/6kmah6c",
+    "location": "San Francisco, CA +2",
+    "locations": [
+      "San Francisco, CA",
+      "Seattle, WA",
+      "New York City, NY"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "staff",
+    "skills": [
+      "LLMs"
+    ],
+    "posted": "2026-11-13T17:59:01.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$965B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:1a62ac48-f392-4492-9646-04a65bd42dca",
+    "companyId": "company_48903a64fb9cfbae281779a45706fb68",
+    "company": "Verkada",
+    "companyDomain": "verkada.com",
+    "role": "Lead Product Manager, Access Management",
+    "applyUrl": "https://go.landed.jobs/mm81596",
+    "location": "San Mateo, CA",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "product_management",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-11-12T22:12:42.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hardware 50",
+      "$5.8B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:156ed650-54bd-4334-ba3d-8ff49dfa119f",
+    "companyId": "company_d318762d9a7b1ecbb23619b165e3fabe",
+    "company": "Anthropic",
+    "companyDomain": "anthropic.com",
+    "role": "Tech Lead Manager, Growth Data Science",
+    "applyUrl": "https://go.landed.jobs/703pz9p",
+    "location": "San Francisco, CA +2",
+    "locations": [
+      "San Francisco, CA",
+      "New York City, NY",
+      "Seattle, WA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "data_science_analytics",
+    "level": "senior",
+    "skills": [
+      "large language models"
+    ],
+    "posted": "2026-11-12T21:54:18.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$965B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:fe3c4fb8-ed8e-4105-af45-72f83a14cf2f",
     "companyId": "company_48903a64fb9cfbae281779a45706fb68",
     "company": "Verkada",
@@ -20,142 +175,6 @@
     "companyBadges": [
       "TrueUp Hardware 50",
       "$5.8B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:8b638cd0-c429-462f-89b2-42c173af9736",
-    "companyId": "company_d318762d9a7b1ecbb23619b165e3fabe",
-    "company": "Anthropic",
-    "companyDomain": "anthropic.com",
-    "role": "Engineering Manager, Agent Security Partnerships",
-    "applyUrl": "https://go.landed.jobs/angceyw",
-    "location": "New York City, NY +2",
-    "locations": [
-      "New York City, NY",
-      "Seattle, WA",
-      "San Francisco, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "security",
-    "level": "director",
-    "skills": [
-      "go"
-    ],
-    "posted": "2026-11-10T21:53:40.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$965B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:86a7edd7-8a08-466c-9988-15eec3a316de",
-    "companyId": "company_d318762d9a7b1ecbb23619b165e3fabe",
-    "company": "Anthropic",
-    "companyDomain": "anthropic.com",
-    "role": "Product Manager, Seller Experience",
-    "applyUrl": "https://go.landed.jobs/7wnijts",
-    "location": "San Francisco, CA · New York City, NY",
-    "locations": [
-      "San Francisco, CA",
-      "New York City, NY"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "product_management",
-    "level": "",
-    "skills": [
-      "product strategy",
-      "enterprise deals"
-    ],
-    "posted": "2026-11-10T21:04:21.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$965B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:5e85f343-e2fd-4410-aed9-3bbb6cf73a3a",
-    "companyId": "company_d318762d9a7b1ecbb23619b165e3fabe",
-    "company": "Anthropic",
-    "companyDomain": "anthropic.com",
-    "role": "Security Engineer, RF and Technical Surveillance Countermeasures",
-    "applyUrl": "https://go.landed.jobs/zuo3zyv",
-    "location": "San Francisco, CA · New York City, NY",
-    "locations": [
-      "San Francisco, CA",
-      "New York City, NY"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "security",
-    "level": "",
-    "skills": [],
-    "posted": "2026-11-10T19:30:58.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$965B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:752e8d62-9ae5-44c7-b0d3-8fc64e31c244",
-    "companyId": "company_d318762d9a7b1ecbb23619b165e3fabe",
-    "company": "Anthropic",
-    "companyDomain": "anthropic.com",
-    "role": "Principal Engineer, Privacy",
-    "applyUrl": "https://go.landed.jobs/7x4kvqt",
-    "location": "San Francisco, CA +2",
-    "locations": [
-      "San Francisco, CA",
-      "Seattle, WA",
-      "New York City, NY"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "security",
-    "level": "principal",
-    "skills": [
-      "distributed systems",
-      "AI agents"
-    ],
-    "posted": "2026-11-10T16:32:56.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$965B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:2a5ff4aa-a945-47d3-aaa0-4f8d6d33616e",
-    "companyId": "company_d318762d9a7b1ecbb23619b165e3fabe",
-    "company": "Anthropic",
-    "companyDomain": "anthropic.com",
-    "role": "[C] Research Engineer, Discovery",
-    "applyUrl": "https://go.landed.jobs/38eqv83",
-    "location": "San Francisco, CA · New York City, NY",
-    "locations": [
-      "San Francisco, CA",
-      "New York City, NY"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "distributed systems",
-      "Kubernetes",
-      "Docker",
-      "PyTorch",
-      "AWS"
-    ],
-    "posted": "2026-11-10T12:05:53.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$965B valuation"
     ]
   },
   {
@@ -248,6 +267,46 @@
     "companyBadges": [
       "TrueUp Hardware 50",
       "$5.8B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:38926db4-9e06-4956-b11c-6364e957c6a6",
+    "companyId": "company_7cce6156243b1cbd4d14bc2f2a0c8d49",
+    "company": "Palo Alto Networks",
+    "companyDomain": "paloaltonetworks.com",
+    "role": "Sr. Staff Engineer Software, Infrastructure Reliability (Chronosphere)",
+    "applyUrl": "https://go.landed.jobs/ysc9gsw",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "San Francisco, CA",
+      "Denver, CO",
+      "Austin, TX",
+      "Jacksonville, FL",
+      "Seattle, WA",
+      "Boston, MA",
+      "New York City, NY"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "staff",
+    "skills": [
+      "Go",
+      "Java",
+      "Python",
+      "Rust",
+      "AWS",
+      "GCP",
+      "Kubernetes",
+      "Terraform",
+      "Cursor",
+      "Claude"
+    ],
+    "posted": "2026-11-09T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$270B valuation"
     ]
   },
   {
@@ -466,46 +525,6 @@
     ]
   },
   {
-    "dedupeKey": "job:27dc0ad4-19e7-44de-9ab0-d1ecfcdc1863",
-    "companyId": "company_7cce6156243b1cbd4d14bc2f2a0c8d49",
-    "company": "Palo Alto Networks",
-    "companyDomain": "paloaltonetworks.com",
-    "role": "Sr. Principal/Architect - Infrastructure/Production Engineering (Chronosphere)",
-    "applyUrl": "https://go.landed.jobs/dhgvo0z",
-    "location": "San Francisco, CA +6",
-    "locations": [
-      "San Francisco, CA",
-      "Denver, CO",
-      "Austin, TX",
-      "Jacksonville, FL",
-      "Seattle, WA",
-      "Boston, MA",
-      "New York City, NY"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "principal",
-    "skills": [
-      "Go",
-      "Kubernetes",
-      "GCP",
-      "AWS",
-      "C++",
-      "Java",
-      "C#",
-      "Rust",
-      "Linux",
-      "monitoring and alerting"
-    ],
-    "posted": "2026-11-04T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$270B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:d58b5030-a54c-4f0c-9036-8c28ed005fa8",
     "companyId": "company_eae8f9a4edd28bb7aeab7956056f67cb",
     "company": "Reflection",
@@ -562,40 +581,6 @@
     "companyBadges": [
       "TrueUp Hot 200",
       "$8B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:c7c96de3-5e43-4432-bc05-ae0e17dc0dd8",
-    "companyId": "company_48903a64fb9cfbae281779a45706fb68",
-    "company": "Verkada",
-    "companyDomain": "verkada.com",
-    "role": "Backend Software Engineer - University Graduate 2027",
-    "applyUrl": "https://go.landed.jobs/6vznzm9",
-    "location": "San Mateo, CA",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "entry",
-    "skills": [
-      "distributed systems",
-      "Redis",
-      "Postgres",
-      "Kafka",
-      "Kubernetes",
-      "Terraform",
-      "computer vision",
-      "Python",
-      "Go",
-      "REST APIs"
-    ],
-    "posted": "2026-11-02T18:47:29.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hardware 50",
-      "$5.8B valuation"
     ]
   },
   {
@@ -845,7 +830,7 @@
     "companyId": "company_b43f97075dbf294f85a415c2b6472894",
     "company": "Exa",
     "companyDomain": "exa.ai",
-    "role": "Software Engineer, Knowledge Engine – Query Engine",
+    "role": "Software Engineer, Knowledge Engine – Query",
     "applyUrl": "https://go.landed.jobs/gdaxtet",
     "location": "San Francisco, CA",
     "locations": [
@@ -968,33 +953,6 @@
     "companyBadges": [
       "$10B valuation",
       "Seed"
-    ]
-  },
-  {
-    "dedupeKey": "job:6e88b2c7-0fec-47e2-879e-9bfe75047f11",
-    "companyId": "company_f40d1a64d5fd3d48ff287b90940ae283",
-    "company": "Aaru",
-    "companyDomain": "aaru.com",
-    "role": "Design Engineer",
-    "applyUrl": "https://go.landed.jobs/8akdwac",
-    "location": "New York City, NY",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "front-end code",
-      "interaction and visual design judgment",
-      "design system"
-    ],
-    "posted": "2026-10-15T14:06:30.025Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$1B valuation"
     ]
   },
   {
@@ -1212,34 +1170,26 @@
     ]
   },
   {
-    "dedupeKey": "job:cf051b40-95ab-4c75-88da-476128753c3e",
+    "dedupeKey": "job:ca16ae2c-16e3-4d14-a8b6-59e27ad7afa7",
     "companyId": "company_0b0a2e208e003d9ffe3c5fae5c685c0c",
     "company": "Medtronic",
     "companyDomain": "medtronic.com",
-    "role": "Principal Systems Engineer (CAS)",
-    "applyUrl": "https://go.landed.jobs/nt5j9v2",
-    "location": "Mounds View, MN · Ireland",
+    "role": "Principal Field Clinical Specialist - Mitral & Tricuspid - West",
+    "applyUrl": "https://go.landed.jobs/nxd42tk",
+    "location": "🌐 Remote (US)",
     "locations": [
-      "Mounds View, MN",
-      "Ireland"
+      "US"
     ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
+    "remote": "remote",
+    "region": "remote",
+    "family": "research_science",
     "level": "principal",
     "skills": [
-      "requirements and traceability",
-      "architecture reviews",
-      "design reviews",
-      "trade studies",
-      "Polarion",
-      "Jama Connect",
-      "IBM Engineering Requirements Management DOORS",
-      "model-based systems engineering",
-      "SysML",
-      "Design for Reliability and Manufacturability",
-      "statistical methods",
-      "root-cause analysis"
+      "echocardiographic imaging",
+      "CT segmentation & analysis software (3Mensio or other)",
+      "trans-septal procedures including TMVR or LAAC or other adjacent therapies",
+      "coordinating multi-center trials",
+      "presenting, writing and teaching clinical and medical information"
     ],
     "posted": "2026-10-29T00:00:00.000Z",
     "companyTier": "B",
@@ -1602,69 +1552,6 @@
     ]
   },
   {
-    "dedupeKey": "job:a696ef9e-848f-4b2e-8274-9dedac7c8d9a",
-    "companyId": "company_0b0a2e208e003d9ffe3c5fae5c685c0c",
-    "company": "Medtronic",
-    "companyDomain": "medtronic.com",
-    "role": "Prin Software Engineer",
-    "applyUrl": "https://go.landed.jobs/7ozvogp",
-    "location": "Lafayette, CO +2",
-    "locations": [
-      "Lafayette, CO",
-      "Mounds View, MN",
-      "North Haven, CT"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "principal",
-    "skills": [
-      "C++ Qt/QML",
-      "GUI application design and development",
-      "Security and Risk analysis"
-    ],
-    "posted": "2026-10-15T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:f2c5aa23-c1a0-48c0-b2d1-8ecc1c06c1c1",
-    "companyId": "company_0b0a2e208e003d9ffe3c5fae5c685c0c",
-    "company": "Medtronic",
-    "companyDomain": "medtronic.com",
-    "role": "Principal Finance Forward Deployed Engineer (FDE)",
-    "applyUrl": "https://go.landed.jobs/jukdr1v",
-    "location": "Fridley, MN",
-    "locations": [
-      "Fridley, MN"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "principal",
-    "skills": [
-      "SQL",
-      "Power BI",
-      "Tableau",
-      "SAP",
-      "Oracle",
-      "Anaplan",
-      "Workday",
-      "Hyperion",
-      "OneStream",
-      "Generative AI",
-      "Large Language Models",
-      "Python"
-    ],
-    "posted": "2026-10-14T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:bcb60203-e46e-4491-80b9-784540b7478b",
     "companyId": "company_fcc5fbd15066cca272832fe066aee72b",
     "company": "FAR.AI",
@@ -1793,7 +1680,7 @@
     "companyId": "company_ece3002b5d82466da16d037689a64b5a",
     "company": "Wafer",
     "companyDomain": "wafer.ai",
-    "role": "Member of Technical Staff, Forward Deployed",
+    "role": "Member of Technical Staff, Deployed",
     "applyUrl": "https://go.landed.jobs/0mo6xel",
     "location": "San Francisco, CA",
     "locations": [
@@ -2908,33 +2795,6 @@
     "companyBadges": []
   },
   {
-    "dedupeKey": "job:4fbe5c09-68f4-4c72-a082-e9ea00f046de",
-    "companyId": "company_0595f0929a02a285c119847c19f85395",
-    "company": "Verily",
-    "companyDomain": "verily.com",
-    "role": "Director of Solutions Engineering",
-    "applyUrl": "https://go.landed.jobs/ayxhwsl",
-    "location": "Dallas, TX",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "developer_relations_solutions",
-    "level": "director",
-    "skills": [
-      "AI/ML techniques (LLMs, NLP, generative AI)",
-      "cloud platforms",
-      "data pipelines",
-      "enterprise integration"
-    ],
-    "posted": "2026-10-21T00:00:00.000Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "$10B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:343a3224-aa43-485b-bd1e-fa4be98bb1cb",
     "companyId": "company_ef6c1c49d39b5fc6629444b2a1aebfbc",
     "company": "Multiply Labs",
@@ -3071,60 +2931,6 @@
     ]
   },
   {
-    "dedupeKey": "job:7d0c606b-9db5-4440-a919-4f779f019efd",
-    "companyId": "company_b7a0132346684603ac3ff2a46e2e6a7f",
-    "company": "Preference Model",
-    "companyDomain": "preferencemodel.com",
-    "role": "Member of Technical Staff - Research Engineer, Post-training",
-    "applyUrl": "https://go.landed.jobs/bac73o4",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "reinforcement learning",
-      "Python",
-      "PyTorch",
-      "JAX",
-      "RL training framework",
-      "Verl",
-      "OpenRLHF"
-    ],
-    "posted": "2026-10-19T21:19:21.073Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:d043d4b4-5aa1-477b-9a7f-5997dcfa841e",
-    "companyId": "company_b7a0132346684603ac3ff2a46e2e6a7f",
-    "company": "Preference Model",
-    "companyDomain": "preferencemodel.com",
-    "role": "Member of Technical Staff - Research Engineer, RL Environments",
-    "applyUrl": "https://go.landed.jobs/b3dawp6",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "reinforcement learning",
-      "machine learning",
-      "LLMs",
-      "transformer models",
-      "inference libraries (vLLM, SGLang, etc)"
-    ],
-    "posted": "2026-10-19T21:17:08.158Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
     "dedupeKey": "job:8b9f234b-a9c8-4019-8a01-fa371a9f0831",
     "companyId": "company_2ce2b6c74d92789f7e98135cab234258",
     "company": "Sofar Ocean",
@@ -3158,6 +2964,61 @@
     "companyTier": "C",
     "companyBadges": [
       "Series B"
+    ]
+  },
+  {
+    "dedupeKey": "job:6e88b2c7-0fec-47e2-879e-9bfe75047f11",
+    "companyId": "company_f40d1a64d5fd3d48ff287b90940ae283",
+    "company": "Aaru",
+    "companyDomain": "aaru.com",
+    "role": "Design Engineer",
+    "applyUrl": "https://go.landed.jobs/8akdwac",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [
+      "front-end code",
+      "interaction and visual design judgment",
+      "design system"
+    ],
+    "posted": "2026-10-15T14:06:30.025Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$1B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:a696ef9e-848f-4b2e-8274-9dedac7c8d9a",
+    "companyId": "company_0b0a2e208e003d9ffe3c5fae5c685c0c",
+    "company": "Medtronic",
+    "companyDomain": "medtronic.com",
+    "role": "Prin Software Engineer",
+    "applyUrl": "https://go.landed.jobs/7ozvogp",
+    "location": "Lafayette, CO +2",
+    "locations": [
+      "Lafayette, CO",
+      "Mounds View, MN",
+      "North Haven, CT"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "principal",
+    "skills": [
+      "C++ Qt/QML",
+      "GUI application design and development",
+      "Security and Risk analysis"
+    ],
+    "posted": "2026-10-15T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
     ]
   },
   {
@@ -3434,6 +3295,41 @@
     "companyTier": "C",
     "companyBadges": [
       "Seed"
+    ]
+  },
+  {
+    "dedupeKey": "job:f2c5aa23-c1a0-48c0-b2d1-8ecc1c06c1c1",
+    "companyId": "company_0b0a2e208e003d9ffe3c5fae5c685c0c",
+    "company": "Medtronic",
+    "companyDomain": "medtronic.com",
+    "role": "Principal Finance Forward Deployed Engineer (FDE)",
+    "applyUrl": "https://go.landed.jobs/jukdr1v",
+    "location": "Fridley, MN",
+    "locations": [
+      "Fridley, MN"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "principal",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Tableau",
+      "SAP",
+      "Oracle",
+      "Anaplan",
+      "Workday",
+      "Hyperion",
+      "OneStream",
+      "Generative AI",
+      "Large Language Models",
+      "Python"
+    ],
+    "posted": "2026-10-14T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
     ]
   },
   {
@@ -6364,34 +6260,6 @@
     ]
   },
   {
-    "dedupeKey": "job:49e3643b-8bfa-43aa-8d85-9dc9e229e2de",
-    "companyId": "company_fffb4e8a1050cd8d5147c772fc5ffb1f",
-    "company": "Maven Clinic",
-    "companyDomain": "mavenclinic.com",
-    "role": "Senior Decision Scientist, Measurement & Insights",
-    "applyUrl": "https://go.landed.jobs/h35y5jx",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "data_science_analytics",
-    "level": "senior",
-    "skills": [
-      "Python",
-      "R",
-      "event-based data",
-      "shared measurement frameworks"
-    ],
-    "posted": "2026-09-09T21:20:40.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "$2B valuation",
-      "Series F"
-    ]
-  },
-  {
     "dedupeKey": "job:05e85f43-1ae5-4e78-8a12-b0ab9b6d8826",
     "companyId": "company_07b930c4279963ace7f3451db3aee583",
     "company": "Carvana",
@@ -7183,39 +7051,6 @@
       "MBA"
     ],
     "posted": "2026-09-01T10:09:20.964Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp FinTech 50",
-      "$420M valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:68e63dc9-aeb3-4a5c-991f-143aa806e022",
-    "companyId": "company_60c42b13fcb0262d7ae05d278ff9b130",
-    "company": "DualEntry",
-    "companyDomain": "dualentry.com",
-    "role": "Technical Product Manager",
-    "applyUrl": "https://go.landed.jobs/yh0u1c4",
-    "location": "New York City, NY",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "product_management",
-    "level": "senior",
-    "skills": [
-      "product management",
-      "applying AI/ML to real product workflows",
-      "shipping LLM-powered or agentic features to production",
-      "reasoning about evals",
-      "failure modes",
-      "trade-offs",
-      "Accounting",
-      "ERP",
-      "fintech domain experience"
-    ],
-    "posted": "2026-09-01T10:05:00.007Z",
     "companyTier": "A",
     "companyBadges": [
       "TrueUp FinTech 50",
@@ -8094,63 +7929,6 @@
     "companyBadges": []
   },
   {
-    "dedupeKey": "job:b27e4ab6-5fb2-4764-a762-f824f2f5d47d",
-    "companyId": "company_60c42b13fcb0262d7ae05d278ff9b130",
-    "company": "DualEntry",
-    "companyDomain": "dualentry.com",
-    "role": "Senior Creative Designer",
-    "applyUrl": "https://go.landed.jobs/dzg0tpd",
-    "location": "New York City, NY",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "design_research",
-    "level": "senior",
-    "skills": [
-      "Figma",
-      "Adobe Creative Suite",
-      "Webflow",
-      "AI skills development & enablement"
-    ],
-    "posted": "2026-08-16T10:53:09.063Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp FinTech 50",
-      "$420M valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:55dcb28b-299d-455e-a8b3-a26f0fb819f6",
-    "companyId": "company_5a35cb562b98ac645569b93a408b7ace",
-    "company": "Periodic Labs",
-    "companyDomain": "periodic.com",
-    "role": "Research Engineer, Lab Automation",
-    "applyUrl": "https://go.landed.jobs/iq7clck",
-    "location": "Menlo Park, CA",
-    "locations": [
-      "Menlo Park, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "research_science",
-    "level": "",
-    "skills": [
-      "lab instrumentation and hardware",
-      "experimental and automation workflows",
-      "materials synthesis and characterization",
-      "electronic lab notebooks",
-      "LIMS"
-    ],
-    "posted": "2026-08-15T05:54:17.329Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$1B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:4424411c-5996-41a4-b723-f6b126c0a7e4",
     "companyId": "company_88ed6a00f9e01e53c0b3008743cdef25",
     "company": "n8n",
@@ -8472,30 +8250,6 @@
     ]
   },
   {
-    "dedupeKey": "job:095790b7-88e1-4623-a5cd-da5f0d7fa13a",
-    "companyId": "company_89d877055fa2fb89e7492f25b20c95b1",
-    "company": "Monzo Bank",
-    "companyDomain": "monzo.com",
-    "role": "Lead Product Manager",
-    "applyUrl": "https://go.landed.jobs/dxwavzd",
-    "location": "🌐 Remote (UK)",
-    "locations": [
-      "Cardiff, UK",
-      "London, UK"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "product_management",
-    "level": "staff",
-    "skills": [],
-    "posted": "2026-11-10T10:29:18.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$5.9B valuation",
-      "Late stage"
-    ]
-  },
-  {
     "dedupeKey": "job:33d48eed-5e7f-49a9-9be9-0dfdfd0d5bcd",
     "companyId": "company_89d877055fa2fb89e7492f25b20c95b1",
     "company": "Monzo Bank",
@@ -8729,42 +8483,6 @@
     ]
   },
   {
-    "dedupeKey": "job:09aa7716-1f2c-433b-b693-f1b6cbb0ec64",
-    "companyId": "company_e7be5e4ede08c17d09cd56d03799f8bf",
-    "company": "Wise",
-    "companyDomain": "wise.com",
-    "role": "Lead Data Scientist - Receive Risk",
-    "applyUrl": "https://go.landed.jobs/hheq1kc",
-    "location": "London, UK",
-    "locations": [
-      "London, UK"
-    ],
-    "remote": "",
-    "region": "world",
-    "family": "data_science_analytics",
-    "level": "senior",
-    "skills": [
-      "Python",
-      "Git",
-      "Hadoop",
-      "Spark",
-      "SQL",
-      "Airflow",
-      "MLflow",
-      "AWS SageMaker",
-      "AWS S3",
-      "AWS EMR",
-      "CI/CD",
-      "LLM-based solutions"
-    ],
-    "posted": "2026-10-14T13:50:53.819Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$12.3B valuation",
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:2f6100f3-d24c-4359-8a6e-cdaf162c6b44",
     "companyId": "company_8ad9ea6e95477b14ad69ae58c82a61a3",
     "company": "Riplo",
@@ -8925,5 +8643,246 @@
     "posted": "2026-11-02T14:44:52.000Z",
     "companyTier": "U",
     "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:6e613203-c6ff-4b58-9f4a-aef00fab1ac5",
+    "companyId": "company_5a19888a60b21347de9696e6df7640f3",
+    "company": "planqc",
+    "companyDomain": "planqc.eu",
+    "role": "Quantum Compiler Engineer​",
+    "applyUrl": "https://go.landed.jobs/pufnqqs",
+    "location": "Garching b. München (DE)",
+    "locations": [
+      "Garching b. München (DE)"
+    ],
+    "remote": "hybrid",
+    "region": "world",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "MLIR or xDSL",
+      "LLVM or a comparable SSA-based infrastructure",
+      "GPUs and Optimization"
+    ],
+    "posted": "2026-10-29T14:30:40.631Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:88e93dcc-71fe-4136-8c89-484a42a20eff",
+    "companyId": "company_d08a0f0f4eb191e0efb67e32573b80c9",
+    "company": "Wheely",
+    "companyDomain": "wheely.com",
+    "role": "Staff Engineer",
+    "applyUrl": "https://go.landed.jobs/bh5yqix",
+    "location": "London, UK · Nicosia, Cyprus",
+    "locations": [
+      "London, UK",
+      "Nicosia, Cyprus"
+    ],
+    "remote": "hybrid",
+    "region": "world",
+    "family": "software_engineering",
+    "level": "staff",
+    "skills": [
+      "backend and infrastructure expertise",
+      "distributed systems",
+      "APIs",
+      "data infrastructure",
+      "Ruby"
+    ],
+    "posted": "2026-10-29T12:17:53.000Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series B"
+    ]
+  },
+  {
+    "dedupeKey": "job:357f816f-6983-4350-8638-9b6a8fd79fda",
+    "companyId": "company_d08a0f0f4eb191e0efb67e32573b80c9",
+    "company": "Wheely",
+    "companyDomain": "wheely.com",
+    "role": "Staff Engineer",
+    "applyUrl": "https://go.landed.jobs/w6wd3da",
+    "location": "Nicosia, Cyprus · London, UK",
+    "locations": [
+      "Nicosia, Cyprus",
+      "London, UK"
+    ],
+    "remote": "hybrid",
+    "region": "world",
+    "family": "software_engineering",
+    "level": "staff",
+    "skills": [
+      "backend architecture",
+      "distributed systems",
+      "infrastructure",
+      "Ruby",
+      "APIs",
+      "data infrastructure"
+    ],
+    "posted": "2026-10-29T12:17:49.000Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series B"
+    ]
+  },
+  {
+    "dedupeKey": "job:e4972ad0-c751-404f-a860-3b863af70dad",
+    "companyId": "company_5e744050a029665c7b59d7c57ca0fa28",
+    "company": "KERNEL",
+    "companyDomain": "kernel.sh",
+    "role": "Engineering Lead",
+    "applyUrl": "https://go.landed.jobs/pebo7ps",
+    "location": "🌐 Remote (UK)",
+    "locations": [
+      "London, UK"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "NodeJS",
+      "Postgres",
+      "TypeScript",
+      "Kubernetes",
+      "distributed systems"
+    ],
+    "posted": "2026-10-27T10:23:35.296Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series A"
+    ]
+  },
+  {
+    "dedupeKey": "job:ab3eff1b-ea8d-4931-80ac-5ebb5dd1107b",
+    "companyId": "company_d9326b4a69e04dee2e0277a872bf397f",
+    "company": "amo",
+    "companyDomain": "amo.co",
+    "role": "Software Engineer, Web (Growth)",
+    "applyUrl": "https://go.landed.jobs/h6v0bl6",
+    "location": "Paris, France",
+    "locations": [
+      "Paris, France"
+    ],
+    "remote": "",
+    "region": "world",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "deep linking",
+      "Universal Links / App Links",
+      "attribution",
+      "analytics taxonomies",
+      "running experiments"
+    ],
+    "posted": "2026-10-22T14:46:27.457Z",
+    "companyTier": "C",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:7b030130-0ee2-4ea6-a97e-d1561418d14b",
+    "companyId": "company_3969afa3acf656ffe002b968664abb57",
+    "company": "Optiver",
+    "companyDomain": "optiver.com",
+    "role": "Software Engineer (C++) - Derivatives",
+    "applyUrl": "https://go.landed.jobs/x49mukk",
+    "location": "Sydney, Australia",
+    "locations": [
+      "Sydney, Australia"
+    ],
+    "remote": "",
+    "region": "world",
+    "family": "software_engineering",
+    "level": "mid",
+    "skills": [
+      "distributed systems",
+      "low-latency systems",
+      "backend systems",
+      "client/server architectures"
+    ],
+    "posted": "2026-10-22T03:50:18.000Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:b488e247-fa3e-4c41-9b18-51564e68a0e7",
+    "companyId": "company_b94c24534fc9d382662206f7e053619a",
+    "company": "Quantum Motion",
+    "companyDomain": "quantummotion.tech",
+    "role": "Quantum Theory Internship Programme 2027",
+    "applyUrl": "https://go.landed.jobs/oi0cc7x",
+    "location": "London, UK",
+    "locations": [
+      "London, UK"
+    ],
+    "remote": "",
+    "region": "world",
+    "family": "research_science",
+    "level": "intern",
+    "skills": [],
+    "posted": "2026-10-22T00:13:18.829Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series C"
+    ]
+  },
+  {
+    "dedupeKey": "job:80ac2901-32ca-4b26-bc13-5f332e9f464b",
+    "companyId": "company_5e744050a029665c7b59d7c57ca0fa28",
+    "company": "KERNEL",
+    "companyDomain": "kernel.sh",
+    "role": "Engineering Manager",
+    "applyUrl": "https://go.landed.jobs/qrez3vr",
+    "location": "🌐 Remote (UK)",
+    "locations": [
+      "London, UK"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "software engineering",
+      "distributed systems",
+      "NodeJS",
+      "Postgres",
+      "TypeScript",
+      "Kubernetes",
+      "Data Engineering",
+      "ML Engineering"
+    ],
+    "posted": "2026-10-21T19:31:44.729Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series A"
+    ]
+  },
+  {
+    "dedupeKey": "job:4d98e47e-8a25-46c4-8d91-1ccbe4514801",
+    "companyId": "company_f9d986f157ab2374313798a4249fd349",
+    "company": "Omnea",
+    "companyDomain": "omnea.co",
+    "role": "Team Lead Manager - Product Engineer",
+    "applyUrl": "https://go.landed.jobs/84uxx93",
+    "location": "London, UK",
+    "locations": [
+      "London, UK"
+    ],
+    "remote": "hybrid",
+    "region": "world",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "full-stack engineer",
+      "TypeScript",
+      "AWS serverless"
+    ],
+    "posted": "2026-10-21T12:52:57.488Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series B"
+    ]
   }
 ]
