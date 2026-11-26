@@ -707,66 +707,6 @@
     ]
   },
   {
-    "dedupeKey": "job:d4dbbba9-ea2e-4a5e-8de4-365d3d928604",
-    "companyId": "company_35c950f8cc62e891728aff2c5bca0931",
-    "company": "Thinking Machines Lab",
-    "companyDomain": "thinkingmachines.ai",
-    "role": "Application Security Engineer",
-    "applyUrl": "https://go.landed.jobs/gpddo1d",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "security",
-    "level": "senior",
-    "skills": [
-      "threat modeling",
-      "authentication",
-      "authorization",
-      "session management",
-      "input validation",
-      "CI/CD checks",
-      "dependency management",
-      "vulnerability detection",
-      "ML/LLM APIs"
-    ],
-    "posted": "2026-10-27T16:24:28.319Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "$10B valuation",
-      "Seed"
-    ]
-  },
-  {
-    "dedupeKey": "job:847d82c1-0565-4c86-beca-b1be006103e1",
-    "companyId": "company_35c950f8cc62e891728aff2c5bca0931",
-    "company": "Thinking Machines Lab",
-    "companyDomain": "thinkingmachines.ai",
-    "role": "Infrastructure Engineer, Security",
-    "applyUrl": "https://go.landed.jobs/t5c8n6a",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "security",
-    "level": "senior",
-    "skills": [
-      "Infrastructure as Code (Terraform or similar)",
-      "ML infrastructure, GPU clusters, or large-scale training environments",
-      "profiling and tuning high-throughput systems"
-    ],
-    "posted": "2026-10-27T16:23:44.228Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "$10B valuation",
-      "Seed"
-    ]
-  },
-  {
     "dedupeKey": "job:fa387d6f-dabc-47a6-b13f-2a7b9f1ad50f",
     "companyId": "company_39f5584208c174b16a349b5e0d753a06",
     "company": "Agave",
@@ -1634,6 +1574,38 @@
     ]
   },
   {
+    "dedupeKey": "job:7ad25d2c-3e8b-4928-831b-8b79a5ce69cd",
+    "companyId": "company_9975d025829b9d97cd21ec15b32ddc0f",
+    "company": "Western Governors University",
+    "companyDomain": "wgu.edu",
+    "role": "Software Engineer II",
+    "applyUrl": "https://go.landed.jobs/k7dxdzf",
+    "location": "Salt Lake City, UT",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "mid",
+    "skills": [
+      "Java",
+      "REST",
+      "Spring",
+      "JavaScript",
+      "React",
+      "Angular",
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "GitHub Actions"
+    ],
+    "posted": "2026-11-05T00:00:00.000Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
     "dedupeKey": "job:053d9471-7bd7-4e1c-8699-85b30b855a9b",
     "companyId": "company_5fd7336b68deb0018aec92865b0dcd8b",
     "company": "LatchBio",
@@ -2153,6 +2125,66 @@
     "companyTier": "C",
     "companyBadges": [
       "Series C"
+    ]
+  },
+  {
+    "dedupeKey": "job:d4dbbba9-ea2e-4a5e-8de4-365d3d928604",
+    "companyId": "company_35c950f8cc62e891728aff2c5bca0931",
+    "company": "Thinking Machines Lab",
+    "companyDomain": "thinkingmachines.ai",
+    "role": "Application Security Engineer",
+    "applyUrl": "https://go.landed.jobs/gpddo1d",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "security",
+    "level": "senior",
+    "skills": [
+      "threat modeling",
+      "authentication",
+      "authorization",
+      "session management",
+      "input validation",
+      "CI/CD checks",
+      "dependency management",
+      "vulnerability detection",
+      "ML/LLM APIs"
+    ],
+    "posted": "2026-10-27T16:24:28.319Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "$10B valuation",
+      "Seed"
+    ]
+  },
+  {
+    "dedupeKey": "job:847d82c1-0565-4c86-beca-b1be006103e1",
+    "companyId": "company_35c950f8cc62e891728aff2c5bca0931",
+    "company": "Thinking Machines Lab",
+    "companyDomain": "thinkingmachines.ai",
+    "role": "Infrastructure Engineer, Security",
+    "applyUrl": "https://go.landed.jobs/t5c8n6a",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "security",
+    "level": "senior",
+    "skills": [
+      "Infrastructure as Code (Terraform or similar)",
+      "ML infrastructure, GPU clusters, or large-scale training environments",
+      "profiling and tuning high-throughput systems"
+    ],
+    "posted": "2026-10-27T16:23:44.228Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "$10B valuation",
+      "Seed"
     ]
   },
   {
@@ -4271,60 +4303,6 @@
     ]
   },
   {
-    "dedupeKey": "job:e289c15e-6035-449c-8dc5-3cd74082d337",
-    "companyId": "company_aa24b6d1867f49396574d4b78fa1150f",
-    "company": "Affirm",
-    "companyDomain": "affirm.com",
-    "role": "Manager, Machine Learning Engineering, Checkout",
-    "applyUrl": "https://go.landed.jobs/9m737jh",
-    "location": "🌐 Remote (Spain, Poland, UK)",
-    "locations": [
-      "Spain",
-      "Poland",
-      "UK"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "tree-based models, transformers, deep learning, and agentic ML",
-      "hands-on technical leadership while working with our code and architecture"
-    ],
-    "posted": "2026-10-27T13:26:04.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Remote 200",
-      "$23.9B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:14113b67-8c5c-480e-ac7c-0aed1fba6248",
-    "companyId": "company_aa24b6d1867f49396574d4b78fa1150f",
-    "company": "Affirm",
-    "companyDomain": "affirm.com",
-    "role": "Senior Manager, Software Engineering (Card)",
-    "applyUrl": "https://go.landed.jobs/q7hc0bj",
-    "location": "🌐 Remote (Spain, Poland)",
-    "locations": [
-      "Spain",
-      "Poland"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "AI"
-    ],
-    "posted": "2026-10-27T12:29:34.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Remote 200",
-      "$23.9B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:dd40b6be-a2d8-450a-bc45-7103a6d78476",
     "companyId": "company_153405fefd6d323613944b75c90d11e8",
     "company": "Dataleap (YC S24)",
@@ -4736,6 +4714,60 @@
     "companyTier": "C",
     "companyBadges": [
       "Series B"
+    ]
+  },
+  {
+    "dedupeKey": "job:e289c15e-6035-449c-8dc5-3cd74082d337",
+    "companyId": "company_aa24b6d1867f49396574d4b78fa1150f",
+    "company": "Affirm",
+    "companyDomain": "affirm.com",
+    "role": "Manager, Machine Learning Engineering, Checkout",
+    "applyUrl": "https://go.landed.jobs/9m737jh",
+    "location": "🌐 Remote (Spain, Poland, UK)",
+    "locations": [
+      "Spain",
+      "Poland",
+      "UK"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "ai_machine_learning",
+    "level": "senior",
+    "skills": [
+      "tree-based models, transformers, deep learning, and agentic ML",
+      "hands-on technical leadership while working with our code and architecture"
+    ],
+    "posted": "2026-10-27T13:26:04.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$23.9B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:14113b67-8c5c-480e-ac7c-0aed1fba6248",
+    "companyId": "company_aa24b6d1867f49396574d4b78fa1150f",
+    "company": "Affirm",
+    "companyDomain": "affirm.com",
+    "role": "Senior Manager, Software Engineering (Card)",
+    "applyUrl": "https://go.landed.jobs/q7hc0bj",
+    "location": "🌐 Remote (Spain, Poland)",
+    "locations": [
+      "Spain",
+      "Poland"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "AI"
+    ],
+    "posted": "2026-10-27T12:29:34.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$23.9B valuation"
     ]
   },
   {
